@@ -61,3 +61,14 @@ Get the latest version here:
    ✅ Ubuntu Studio 24.04
 
    ✅ Other modern distributions
+   
+
+**⚠️ Important notes**
+
+   This is an unofficial build and is not maintained by the original MapMap team.
+
+   Compiled with Qt6 to fix compatibility issues on Ubuntu 24.04 and newer systems.
+
+   The original project is no longer actively maintained — this AppImage aims to keep it usable on modern Linux.
+
+   Report issues on this repository (not the official one).
