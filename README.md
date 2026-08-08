@@ -28,3 +28,17 @@ Get the latest version here:
   ```
 
 **No installation required — works on all recent Linux distributions (Ubuntu 24.04+, Debian, Fedora, Arch, etc.)**
+
+**✨ Features**
+
+ ✅ Real-time video mapping
+
+ ✅ Multiple sources support (camera, files, streaming)
+
+ ✅ Advanced calibration and warping
+
+ ✅ Intuitive user interface
+
+ ✅ OSC support for external control
+
+ ✅ Multi-display and projector compatibility
