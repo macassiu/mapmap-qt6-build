@@ -96,3 +96,31 @@ v0.6.3-qt6 (2026-08-08)
    GStreamer plugins included
 
    Works on Ubuntu 24.04+ without additional dependencies
+
+ **🙏 Credits**
+
+ Original [MapMap team](https://github.com/mapmapteam/mapmap) for their work
+
+ Open-source community for build and packaging tools
+
+ **🤝 Contributing**
+
+This is a community build. If you find issues or have suggestions, please open an Issue on this repository.
+
+
+**📜 License**
+
+MapMap is released under the GPLv3 license. This AppImage is distributed under the same terms.
+💬 Support
+
+For questions or issues, please open an Issue on this repository.
+
+🔗 Original repository: [mapmapteam/mapmap](https://github.com/mapmapteam/mapmap)
+
+📢 Found this useful? Share it with the community on:
+
+    r/projection_mapping
+
+    LinuxMAO forums
+
+    Ubuntu forums
