@@ -15,14 +15,15 @@ Get the latest version here:
 👉 **[MapMap-v0.6.3-qt6-x86_64.AppImage](https://github.com/macassiu/mapmap-qt6-build/releases/latest)**
 
 ---
-
 ## 🚀 How to use
 
 1. **Download** the `.AppImage` file
 2. **Make it executable**:
+
    ```bash
    chmod +x MapMap-*.AppImage
+3. **Run it:**
+  ```bash
+  ./MapMap-*.AppImage
+  ```
 
-  ** Run it:**
-   ```./MapMap-*.AppImage```
-   
