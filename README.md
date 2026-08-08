@@ -42,3 +42,22 @@ Get the latest version here:
  ✅ OSC support for external control
 
  ✅ Multi-display and projector compatibility
+ 
+ 
+
+**🖥️ System Requirements**
+
+   Linux distribution (x86_64)
+
+   GPU with OpenGL support
+
+   GStreamer (bundled in AppImage)
+   
+
+**Tested on:**
+
+   ✅ Ubuntu 24.04 LTS
+
+   ✅ Ubuntu Studio 24.04
+
+   ✅ Other modern distributions
