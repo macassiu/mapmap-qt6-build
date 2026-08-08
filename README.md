@@ -12,7 +12,7 @@ MapMap v0.6.3 AppImage — Qt6 build for Ubuntu 24.04+ and modern Linux. No inst
 ## 📦 Download
 
 Get the latest version here:  
-👉 **[MapMap-v0.6.3-qt6-x86_64.AppImage](https://github.com/macassiu/mapmap-qt6-build/tree/main))**
+👉 **[MapMap-v0.6.3-qt6-x86_64.AppImage](https://github.com/[TON_USERNAME]/mapmap-appimage/releases/latest)**
 
 ---
 
