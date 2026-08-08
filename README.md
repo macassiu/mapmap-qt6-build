@@ -72,3 +72,27 @@ Get the latest version here:
    The original project is no longer actively maintained — this AppImage aims to keep it usable on modern Linux.
 
    Report issues on this repository (not the official one).
+
+**🔧 Build from source**
+
+To compile MapMap yourself with Qt6:
+```bash
+git clone https://github.com/mapmapteam/mapmap.git
+cd mapmap
+# Edit src/src.pri — uncomment QT += openglwidgets
+qmake6 mapmap.pro
+make -j$(nproc)
+```
+
+**📝 Changelog**
+v0.6.3-qt6 (2026-08-08)
+
+ Compiled with Qt6 instead of Qt5
+
+  Fixed openglwidgets compatibility issue
+
+  Bundled all required libraries
+
+   GStreamer plugins included
+
+   Works on Ubuntu 24.04+ without additional dependencies
