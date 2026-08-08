@@ -27,3 +27,4 @@ Get the latest version here:
   ./MapMap-*.AppImage
   ```
 
+**No installation required — works on all recent Linux distributions (Ubuntu 24.04+, Debian, Fedora, Arch, etc.)**
