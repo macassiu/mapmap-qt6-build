@@ -119,8 +119,6 @@ For questions or issues, please open an Issue on this repository.
 
 📢 Found this useful? Share it with the community on:
 
-    r/projection_mapping
+   [r/projection_mapping](https://www.reddit.com/r/Projection_Mapping/)
 
-    LinuxMAO forums
-
-    Ubuntu forums
+   Ubuntu forums
